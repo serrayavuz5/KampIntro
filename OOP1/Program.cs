@@ -22,6 +22,9 @@ namespace OOP1
             ProductManeger productManeger = new ProductManeger();
             productManeger.Add(product1);
 
+            
+            
+
         }
     }
 }
